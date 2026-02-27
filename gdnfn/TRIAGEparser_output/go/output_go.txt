@@ -1,0 +1,17 @@
+	cluster1	cluster2
+Acute_inflammatory_response	1	0.0041
+Blood_coagulation,_common_pathway	1	0.0028
+Blood_coagulation,_extrinsic_pathway	1	0.0014
+Blood_coagulation,_fibrin_clot_formation	3.6e-05	2.39e-11
+Blood_coagulation,_intrinsic_pathway	0.0032	4e-07
+Complement_activation,_classical_pathway	1	7.04e-06
+Defense_response	1	0.00061
+Humoral_immune_response	1	9.66e-05
+Leukocyte_mediated_immunity	1	3.17e-05
+Positive_regulation_of_apoptotic_cell_clearance	1	0.0049
+Positive_regulation_of_blood_coagulation	0.0096	1
+Protein_processing	1	5.11e-07
+Proteolysis	1	1.19e-05
+Regulation_of_blood_coagulation	1	0.0032
+Response_to_stress	1	2.19e-05
+Zymogen_activation	0.00016	4e-07

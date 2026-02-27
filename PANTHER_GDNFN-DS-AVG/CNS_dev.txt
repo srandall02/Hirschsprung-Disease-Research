@@ -1,0 +1,31 @@
+
+MOUSE|MGI=MGI=1352452|UniProtKB=P43135	NR2F2	COUP transcription factor 2;Nr2f2;PTN000638940;orthologs	COUP TRANSCRIPTION FACTOR 2 (PTHR24083:SF45)	C4 zinc finger nuclear receptor(PC00169)	Mus musculus
+MOUSE|MGI=MGI=1890357|UniProtKB=O88477	IGF2BP1	Insulin-like growth factor 2 mRNA-binding protein 1;Igf2bp1;PTN000032624;orthologs	INSULIN-LIKE GROWTH FACTOR 2 MRNA-BINDING PROTEIN 1 (PTHR10288:SF92)	RNA metabolism protein(PC00031)	Mus musculus
+MOUSE|MGI=MGI=1100882|UniProtKB=O35690	PHOX2B	Paired mesoderm homeobox protein 2B;Phox2b;PTN000676611;orthologs	PAIRED MESODERM HOMEOBOX PROTEIN 2B (PTHR24329:SF301)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=97347|UniProtKB=P42586	NKX2-2	Homeobox protein Nkx-2.2;Nkx2-2;PTN000678557;orthologs	HOMEOBOX PROTEIN NKX-2.2 (PTHR24340:SF24)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1929518|UniProtKB=Q7TQ40	ZIC5	Zinc finger protein ZIC 5;Zic5;PTN000456515;orthologs	ZINC FINGER PROTEIN ZIC 5 (PTHR19818:SF69)	C2H2 zinc finger transcription factor(PC00248)	Mus musculus
+MOUSE|MGI=MGI=97311|UniProtKB=P70257	NFIX	Nuclear factor 1 X-type;Nfix;PTN000160914;orthologs	NUCLEAR FACTOR 1 X-TYPE (PTHR11492:SF3)	DNA-binding transcription factor(PC00218)	Mus musculus
+MOUSE|MGI=MGI=1309503|UniProtKB=Q9Z351	KCNQ2	Potassium voltage-gated channel subfamily KQT member 2;Kcnq2;PTN000165327;orthologs	POTASSIUM VOLTAGE-GATED CHANNEL SUBFAMILY KQT MEMBER 2 (PTHR47735:SF4)	voltage-gated ion channel(PC00241)	Mus musculus
+MOUSE|MGI=MGI=1277163|UniProtKB=Q2NKI2	VAX1	Ventral anterior homeobox 1;Vax1;PTN000678173;orthologs	VENTRAL ANTERIOR HOMEOBOX 1 (PTHR24339:SF32)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=102780|UniProtKB=Q62231	SIX1	Homeobox protein SIX1;Six1;PTN000044361;orthologs	HOMEOBOX PROTEIN SIX1 (PTHR10390:SF13)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1924880|UniProtKB=Q8BZ97	PRDM8	PR domain zinc finger protein 8;Prdm8;PTN000421268;orthologs	PR DOMAIN ZINC FINGER PROTEIN 8 (PTHR16516:SF7)		Mus musculus
+MOUSE|MGI=MGI=97168|UniProtKB=P13297	MSX1	Homeobox protein MSX-1;Msx1;PTN000678079;orthologs	HOMEOBOX PROTEIN MSX-1 (PTHR24338:SF8)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=101776|UniProtKB=P53776	LHX4	LIM_homeobox protein Lhx4;Lhx4;PTN000654249;orthologs	LIM_HOMEOBOX PROTEIN LHX4 (PTHR24208:SF116)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=104671|UniProtKB=P34056	TFAP2A	Transcription factor AP-2-alpha;Tfap2a;PTN000087754;orthologs	TRANSCRIPTION FACTOR AP-2-ALPHA (PTHR10812:SF8)	general transcription factor(PC00259)	Mus musculus
+MOUSE|MGI=MGI=95390|UniProtKB=P09066	EN2	Homeobox protein engrailed-2;En2;PTN000678732;orthologs	HOMEOBOX PROTEIN ENGRAILED-2 (PTHR24341:SF5)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1355334|UniProtKB=Q9JKN5	OLIG1	Oligodendrocyte transcription factor 1;Olig1;PTN000446244;orthologs	OLIGODENDROCYTE TRANSCRIPTION FACTOR 1 (PTHR19290:SF7)	basic helix-loop-helix transcription factor(PC00055)	Mus musculus
+MOUSE|MGI=MGI=1328312|UniProtKB=Q9QX98	PTF1A	Pancreas transcription factor 1 subunit alpha;Ptf1a;PTN000598222;orthologs	PANCREAS TRANSCRIPTION FACTOR 1 SUBUNIT ALPHA (PTHR23349:SF59)	basic helix-loop-helix transcription factor(PC00055)	Mus musculus
+MOUSE|MGI=MGI=96192|UniProtKB=P31257	HOXC10	Homeobox protein Hox-C10;Hoxc10;PTN000675154;orthologs	HOMEOBOX PROTEIN HOX-C10 (PTHR45874:SF2)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1355331|UniProtKB=Q9EQW6	OLIG2	Oligodendrocyte transcription factor 2;Olig2;PTN000446198;orthologs	OLIGODENDROCYTE TRANSCRIPTION FACTOR 2 (PTHR19290:SF32)	basic helix-loop-helix transcription factor(PC00055)	Mus musculus
+MOUSE|MGI=MGI=1100513|UniProtKB=O88609	LMX1B	LIM homeobox transcription factor 1-beta;Lmx1b;PTN000654706;orthologs	LIM HOMEOBOX TRANSCRIPTION FACTOR 1-BETA (PTHR24208:SF96)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=96919|UniProtKB=Q02067	ASCL1	Achaete-scute homolog 1;Ascl1;PTN000358379;orthologs	ACHAETE-SCUTE HOMOLOG 1 (PTHR13935:SF66)	basic helix-loop-helix transcription factor(PC00055)	Mus musculus
+MOUSE|MGI=MGI=2653629|UniProtKB=A2A9A2	DMRTA2	Doublesex- and mab-3-related transcription factor A2;Dmrta2;PTN000268663;orthologs	DOUBLESEX- AND MAB-3-RELATED TRANSCRIPTION FACTOR A2 (PTHR12322:SF76)	DNA-binding transcription factor(PC00218)	Mus musculus
+MOUSE|MGI=MGI=96571|UniProtKB=Q04999	INHBB	Inhibin beta B chain;Inhbb;PTN000218182;orthologs	INHIBIN BETA B CHAIN (PTHR11848:SF29)	growth factor(PC00112)	Mus musculus
+MOUSE|MGI=MGI=2149955|UniProtKB=Q6PFG8	OLIG3	Oligodendrocyte transcription factor 3;Olig3;PTN000446182;orthologs	OLIGODENDROCYTE TRANSCRIPTION FACTOR 3 (PTHR19290:SF96)	basic helix-loop-helix transcription factor(PC00055)	Mus musculus
+MOUSE|MGI=MGI=95389|UniProtKB=P09065	EN1	Homeobox protein engrailed-1;En1;PTN000678691;orthologs	HOMEOBOX PROTEIN ENGRAILED-1 (PTHR24341:SF4)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1351209|UniProtKB=O55144	TLX3	T-cell leukemia homeobox protein 3;Tlx3;PTN000674651;orthologs	T-CELL LEUKEMIA HOMEOBOX PROTEIN 3 (PTHR45921:SF1)		Mus musculus
+MOUSE|MGI=MGI=98364|UniProtKB=P48432	SOX2	Transcription factor SOX-2;Sox2;PTN000030823;orthologs	TRANSCRIPTION FACTOR SOX-2 (PTHR10270:SF231)	HMG box transcription factor(PC00024)	Mus musculus
+MOUSE|MGI=MGI=104867|UniProtKB=P52955	LBX1	Transcription factor LBX1;Lbx1;PTN000677984;orthologs	TRANSCRIPTION FACTOR LBX1 (PTHR24336:SF9)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1347466|UniProtKB=Q61572	FOXC1	Forkhead box protein C1;Foxc1;PTN000215808;orthologs	FORKHEAD BOX PROTEIN C1 (PTHR11829:SF68)	winged helix/forkhead transcription factor(PC00246)	Mus musculus
+MOUSE|MGI=MGI=95387|UniProtKB=Q04742	EMX1	Homeobox protein EMX1;Emx1;PTN000678221;orthologs	HOMEOBOX PROTEIN EMX1 (PTHR24339:SF26)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1929913|UniProtKB=Q99PV8	BCL11B	B-cell lymphoma_leukemia 11B;Bcl11b;PTN000579400;orthologs	B-CELL LYMPHOMA_LEUKEMIA 11B (PTHR45993:SF4)	C2H2 zinc finger transcription factor(PC00248)	Mus musculus

@@ -1,0 +1,26 @@
+
+MOUSE|MGI=MGI=107730|UniProtKB=P70321	HOXB13	Homeobox protein Hox-B13;Hoxb13;PTN000675178;orthologs	HOMEOBOX PROTEIN HOX-B13 (PTHR45804:SF6)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1352452|UniProtKB=P43135	NR2F2	COUP transcription factor 2;Nr2f2;PTN000638940;orthologs	COUP TRANSCRIPTION FACTOR 2 (PTHR24083:SF45)	C4 zinc finger nuclear receptor(PC00169)	Mus musculus
+MOUSE|MGI=MGI=98307|UniProtKB=Q61079	SIM2	Single-minded homolog 2;Sim2;PTN000548817;orthologs	SINGLE-MINDED HOMOLOG 2 (PTHR23043:SF19)	basic helix-loop-helix transcription factor(PC00055)	Mus musculus
+MOUSE|MGI=MGI=108061|UniProtKB=P48614	WNT10B	Protein Wnt-10b;Wnt10b;PTN000246532;orthologs	PROTEIN WNT-10B (PTHR12027:SF76)	intercellular signal molecule(PC00207)	Mus musculus
+MOUSE|MGI=MGI=102524|UniProtKB=Q63934	POU4F2	POU domain, class 4, transcription factor 2;Pou4f2;PTN000181167;orthologs	POU DOMAIN, CLASS 4, TRANSCRIPTION FACTOR 2 (PTHR11636:SF41)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=97311|UniProtKB=P70257	NFIX	Nuclear factor 1 X-type;Nfix;PTN000160914;orthologs	NUCLEAR FACTOR 1 X-TYPE (PTHR11492:SF3)	DNA-binding transcription factor(PC00218)	Mus musculus
+MOUSE|MGI=MGI=1277163|UniProtKB=Q2NKI2	VAX1	Ventral anterior homeobox 1;Vax1;PTN000678173;orthologs	VENTRAL ANTERIOR HOMEOBOX 1 (PTHR24339:SF32)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1923615|UniProtKB=Q9EPZ6	TBX18	T-box transcription factor TBX18;Tbx18;PTN000138146;orthologs	T-BOX TRANSCRIPTION FACTOR TBX18 (PTHR11267:SF20)	Rel homology transcription factor(PC00252)	Mus musculus
+MOUSE|MGI=MGI=102780|UniProtKB=Q62231	SIX1	Homeobox protein SIX1;Six1;PTN000044361;orthologs	HOMEOBOX PROTEIN SIX1 (PTHR10390:SF13)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=97168|UniProtKB=P13297	MSX1	Homeobox protein MSX-1;Msx1;PTN000678079;orthologs	HOMEOBOX PROTEIN MSX-1 (PTHR24338:SF8)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1197515|UniProtKB=P81068	IRX1	Iroquois-class homeodomain protein IRX-1;Irx1;PTN000130026;orthologs	IROQUOIS-CLASS HOMEODOMAIN PROTEIN IRX-1 (PTHR11211:SF13)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=104671|UniProtKB=P34056	TFAP2A	Transcription factor AP-2-alpha;Tfap2a;PTN000087754;orthologs	TRANSCRIPTION FACTOR AP-2-ALPHA (PTHR10812:SF8)	general transcription factor(PC00259)	Mus musculus
+MOUSE|MGI=MGI=96179|UniProtKB=P02830	HOXA7	Homeobox protein Hox-A7;Hoxa7;PTN000674883;orthologs	HOMEOBOX PROTEIN HOX-A7 (PTHR45659:SF12)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=98494|UniProtKB=Q60707	TBX2	T-box transcription factor TBX2;Tbx2;PTN000137998;orthologs	T-BOX TRANSCRIPTION FACTOR TBX2 (PTHR11267:SF82)	Rel homology transcription factor(PC00252)	Mus musculus
+MOUSE|MGI=MGI=1355331|UniProtKB=Q9EQW6	OLIG2	Oligodendrocyte transcription factor 2;Olig2;PTN000446198;orthologs	OLIGODENDROCYTE TRANSCRIPTION FACTOR 2 (PTHR19290:SF32)	basic helix-loop-helix transcription factor(PC00055)	Mus musculus
+MOUSE|MGI=MGI=96919|UniProtKB=Q02067	ASCL1	Achaete-scute homolog 1;Ascl1;PTN000358379;orthologs	ACHAETE-SCUTE HOMOLOG 1 (PTHR13935:SF66)	basic helix-loop-helix transcription factor(PC00055)	Mus musculus
+MOUSE|MGI=MGI=2684938|UniProtKB=Q3UZD5	PRDM6	Putative histone-lysine N-methyltransferase PRDM6;Prdm6;PTN002397992;orthologs	HISTONE-LYSINE N-METHYLTRANSFERASE PRDM6-RELATED (PTHR16515:SF22)	C2H2 zinc finger transcription factor(PC00248)	Mus musculus
+MOUSE|MGI=MGI=88361|UniProtKB=P43241	CDX2	Homeobox protein CDX-2;Cdx2;PTN000677808;orthologs	HOMEOBOX PROTEIN CDX-2 (PTHR24332:SF27)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=2446107|UniProtKB=Q922S4	PDE2A	cGMP-dependent 3',5'-cyclic phosphodiesterase;Pde2a;PTN000142434;orthologs	PHOSPHODIESTERASE (PTHR11347:SF102)	phosphodiesterase(PC00185)	Mus musculus
+MOUSE|MGI=MGI=2149955|UniProtKB=Q6PFG8	OLIG3	Oligodendrocyte transcription factor 3;Olig3;PTN000446182;orthologs	OLIGODENDROCYTE TRANSCRIPTION FACTOR 3 (PTHR19290:SF96)	basic helix-loop-helix transcription factor(PC00055)	Mus musculus
+MOUSE|MGI=MGI=95389|UniProtKB=P09065	EN1	Homeobox protein engrailed-1;En1;PTN000678691;orthologs	HOMEOBOX PROTEIN ENGRAILED-1 (PTHR24341:SF4)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=98364|UniProtKB=P48432	SOX2	Transcription factor SOX-2;Sox2;PTN000030823;orthologs	TRANSCRIPTION FACTOR SOX-2 (PTHR10270:SF231)	HMG box transcription factor(PC00024)	Mus musculus
+MOUSE|MGI=MGI=1197526|UniProtKB=P81066	IRX2	Iroquois-class homeodomain protein IRX-2;Irx2;PTN000130131;orthologs	IROQUOIS-CLASS HOMEODOMAIN PROTEIN IRX-2 (PTHR11211:SF15)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1347466|UniProtKB=Q61572	FOXC1	Forkhead box protein C1;Foxc1;PTN000215808;orthologs	FORKHEAD BOX PROTEIN C1 (PTHR11829:SF68)	winged helix/forkhead transcription factor(PC00246)	Mus musculus
+MOUSE|MGI=MGI=96209|UniProtKB=P23463	HOXD8	Homeobox protein Hox-D8;Hoxd8;PTN000674779;orthologs	HOMEOBOX PROTEIN HOX-D8 (PTHR46166:SF1)	homeodomain transcription factor(PC00119)	Mus musculus

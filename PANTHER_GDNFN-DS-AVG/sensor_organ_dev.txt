@@ -1,0 +1,24 @@
+
+MOUSE|MGI=MGI=1100882|UniProtKB=O35690	PHOX2B	Paired mesoderm homeobox protein 2B;Phox2b;PTN000676611;orthologs	PAIRED MESODERM HOMEOBOX PROTEIN 2B (PTHR24329:SF301)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=108061|UniProtKB=P48614	WNT10B	Protein Wnt-10b;Wnt10b;PTN000246532;orthologs	PROTEIN WNT-10B (PTHR12027:SF76)	intercellular signal molecule(PC00207)	Mus musculus
+MOUSE|MGI=MGI=102524|UniProtKB=Q63934	POU4F2	POU domain, class 4, transcription factor 2;Pou4f2;PTN000181167;orthologs	POU DOMAIN, CLASS 4, TRANSCRIPTION FACTOR 2 (PTHR11636:SF41)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=97311|UniProtKB=P70257	NFIX	Nuclear factor 1 X-type;Nfix;PTN000160914;orthologs	NUCLEAR FACTOR 1 X-TYPE (PTHR11492:SF3)	DNA-binding transcription factor(PC00218)	Mus musculus
+MOUSE|MGI=MGI=102778|UniProtKB=Q62232	SIX2	Homeobox protein SIX2;Six2;PTN000044395;orthologs	HOMEOBOX PROTEIN SIX2 (PTHR10390:SF61)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1347479|UniProtKB=O54743	FOXF2	Forkhead box protein F2;Foxf2;PTN000215854;orthologs	FORKHEAD BOX PROTEIN F2 (PTHR46262:SF3)	winged helix/forkhead transcription factor(PC00246)	Mus musculus
+MOUSE|MGI=MGI=1277163|UniProtKB=Q2NKI2	VAX1	Ventral anterior homeobox 1;Vax1;PTN000678173;orthologs	VENTRAL ANTERIOR HOMEOBOX 1 (PTHR24339:SF32)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1923615|UniProtKB=Q9EPZ6	TBX18	T-box transcription factor TBX18;Tbx18;PTN000138146;orthologs	T-BOX TRANSCRIPTION FACTOR TBX18 (PTHR11267:SF20)	Rel homology transcription factor(PC00252)	Mus musculus
+MOUSE|MGI=MGI=102780|UniProtKB=Q62231	SIX1	Homeobox protein SIX1;Six1;PTN000044361;orthologs	HOMEOBOX PROTEIN SIX1 (PTHR10390:SF13)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=97168|UniProtKB=P13297	MSX1	Homeobox protein MSX-1;Msx1;PTN000678079;orthologs	HOMEOBOX PROTEIN MSX-1 (PTHR24338:SF8)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=104671|UniProtKB=P34056	TFAP2A	Transcription factor AP-2-alpha;Tfap2a;PTN000087754;orthologs	TRANSCRIPTION FACTOR AP-2-ALPHA (PTHR10812:SF8)	general transcription factor(PC00259)	Mus musculus
+MOUSE|MGI=MGI=1355334|UniProtKB=Q9JKN5	OLIG1	Oligodendrocyte transcription factor 1;Olig1;PTN000446244;orthologs	OLIGODENDROCYTE TRANSCRIPTION FACTOR 1 (PTHR19290:SF7)	basic helix-loop-helix transcription factor(PC00055)	Mus musculus
+MOUSE|MGI=MGI=105088|UniProtKB=O09118	NTN1	Netrin-1;Ntn1;PTN000743131;orthologs	NETRIN-1 (PTHR10574:SF378)	extracellular matrix protein(PC00102)	Mus musculus
+MOUSE|MGI=MGI=1328312|UniProtKB=Q9QX98	PTF1A	Pancreas transcription factor 1 subunit alpha;Ptf1a;PTN000598222;orthologs	PANCREAS TRANSCRIPTION FACTOR 1 SUBUNIT ALPHA (PTHR23349:SF59)	basic helix-loop-helix transcription factor(PC00055)	Mus musculus
+MOUSE|MGI=MGI=98494|UniProtKB=Q60707	TBX2	T-box transcription factor TBX2;Tbx2;PTN000137998;orthologs	T-BOX TRANSCRIPTION FACTOR TBX2 (PTHR11267:SF82)	Rel homology transcription factor(PC00252)	Mus musculus
+MOUSE|MGI=MGI=1355331|UniProtKB=Q9EQW6	OLIG2	Oligodendrocyte transcription factor 2;Olig2;PTN000446198;orthologs	OLIGODENDROCYTE TRANSCRIPTION FACTOR 2 (PTHR19290:SF32)	basic helix-loop-helix transcription factor(PC00055)	Mus musculus
+MOUSE|MGI=MGI=1100513|UniProtKB=O88609	LMX1B	LIM homeobox transcription factor 1-beta;Lmx1b;PTN000654706;orthologs	LIM HOMEOBOX TRANSCRIPTION FACTOR 1-BETA (PTHR24208:SF96)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=96919|UniProtKB=Q02067	ASCL1	Achaete-scute homolog 1;Ascl1;PTN000358379;orthologs	ACHAETE-SCUTE HOMOLOG 1 (PTHR13935:SF66)	basic helix-loop-helix transcription factor(PC00055)	Mus musculus
+MOUSE|MGI=MGI=96571|UniProtKB=Q04999	INHBB	Inhibin beta B chain;Inhbb;PTN000218182;orthologs	INHIBIN BETA B CHAIN (PTHR11848:SF29)	growth factor(PC00112)	Mus musculus
+MOUSE|MGI=MGI=2149955|UniProtKB=Q6PFG8	OLIG3	Oligodendrocyte transcription factor 3;Olig3;PTN000446182;orthologs	OLIGODENDROCYTE TRANSCRIPTION FACTOR 3 (PTHR19290:SF96)	basic helix-loop-helix transcription factor(PC00055)	Mus musculus
+MOUSE|MGI=MGI=98364|UniProtKB=P48432	SOX2	Transcription factor SOX-2;Sox2;PTN000030823;orthologs	TRANSCRIPTION FACTOR SOX-2 (PTHR10270:SF231)	HMG box transcription factor(PC00024)	Mus musculus
+MOUSE|MGI=MGI=1347466|UniProtKB=Q61572	FOXC1	Forkhead box protein C1;Foxc1;PTN000215808;orthologs	FORKHEAD BOX PROTEIN C1 (PTHR11829:SF68)	winged helix/forkhead transcription factor(PC00246)	Mus musculus
+MOUSE|MGI=MGI=1929913|UniProtKB=Q99PV8	BCL11B	B-cell lymphoma_leukemia 11B;Bcl11b;PTN000579400;orthologs	B-CELL LYMPHOMA_LEUKEMIA 11B (PTHR45993:SF4)	C2H2 zinc finger transcription factor(PC00248)	Mus musculus

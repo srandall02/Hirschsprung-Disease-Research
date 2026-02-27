@@ -1,0 +1,4 @@
+
+MOUSE|MGI=MGI=102524|UniProtKB=Q63934	POU4F2	POU domain, class 4, transcription factor 2;Pou4f2;PTN000181167;orthologs	POU DOMAIN, CLASS 4, TRANSCRIPTION FACTOR 2 (PTHR11636:SF41)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=97168|UniProtKB=P13297	MSX1	Homeobox protein MSX-1;Msx1;PTN000678079;orthologs	HOMEOBOX PROTEIN MSX-1 (PTHR24338:SF8)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1347466|UniProtKB=Q61572	FOXC1	Forkhead box protein C1;Foxc1;PTN000215808;orthologs	FORKHEAD BOX PROTEIN C1 (PTHR11829:SF68)	winged helix/forkhead transcription factor(PC00246)	Mus musculus

@@ -1,0 +1,20 @@
+
+MOUSE|MGI=MGI=1097716|UniProtKB=O35085	ARX	Homeobox protein ARX;Arx;PTN000677415;orthologs	HOMEOBOX PROTEIN ARX (PTHR24329:SF572)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1891408|UniProtKB=Q6XBJ3	ONECUT2	One cut domain family member 2;Onecut2;PTN000362240;orthologs	ONE CUT DOMAIN FAMILY MEMBER 2 (PTHR14057:SF10)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=892014|UniProtKB=Q8C4U3	SFRP1	Secreted frizzled-related protein 1;Sfrp1;PTN000139818;orthologs	SECRETED FRIZZLED-RELATED PROTEIN 1 (PTHR11309:SF87)	transmembrane signal receptor(PC00197)	Mus musculus
+MOUSE|MGI=MGI=1346018|UniProtKB=Q9WTP9	VAX2	Ventral anterior homeobox 2;Vax2;PTN000678158;orthologs	VENTRAL ANTERIOR HOMEOBOX 2 (PTHR24339:SF34)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=97347|UniProtKB=P42586	NKX2-2	Homeobox protein Nkx-2.2;Nkx2-2;PTN000678557;orthologs	HOMEOBOX PROTEIN NKX-2.2 (PTHR24340:SF24)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=2148204|UniProtKB=Q8BYH0	PRRXL1	Dorsal root ganglia homeobox protein;Drgx;PTN000677248;orthologs	DORSAL ROOT GANGLIA HOMEOBOX PROTEIN (PTHR24329:SF542)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=2685490|UniProtKB=Q6IEE6	TMEM132E	Transmembrane protein 132E;Tmem132e;PTN000333201;orthologs	TRANSMEMBRANE PROTEIN 132E (PTHR13388:SF7)		Mus musculus
+MOUSE|MGI=MGI=1920082|UniProtKB=Q8R555	CRTAC1	Cartilage acidic protein 1;Crtac1;PTN000411174;orthologs	CARTILAGE ACIDIC PROTEIN 1 (PTHR16026:SF0)		Mus musculus
+MOUSE|MGI=MGI=1859823|UniProtKB=Q9ESP5	FEZF2	Fez family zinc finger protein 2;Fezf2;PTN000577936;orthologs	FEZ FAMILY ZINC FINGER PROTEIN 2 (PTHR24388:SF97)	C2H2 zinc finger transcription factor(PC00248)	Mus musculus
+MOUSE|MGI=MGI=102673|UniProtKB=P50481	LHX3	LIM_homeobox protein Lhx3;Lhx3;PTN000717561;orthologs	LIM_HOMEOBOX PROTEIN LHX3 (PTHR24208:SF91)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1927549|UniProtKB=Q64732	FOXB1	Forkhead box protein B1;Foxb1;PTN000215497;orthologs	FORKHEAD BOX PROTEIN B1 (PTHR11829:SF209)	winged helix/forkhead transcription factor(PC00246)	Mus musculus
+MOUSE|MGI=MGI=96785|UniProtKB=Q9Z0S2	LHX2	LIM_homeobox protein Lhx2;Lhx2;PTN000654435;orthologs	LIM_HOMEOBOX PROTEIN LHX2 (PTHR24208:SF80)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=96192|UniProtKB=P31257	HOXC10	Homeobox protein Hox-C10;Hoxc10;PTN000675154;orthologs	HOMEOBOX PROTEIN HOX-C10 (PTHR45874:SF2)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1100513|UniProtKB=O88609	LMX1B	LIM homeobox transcription factor 1-beta;Lmx1b;PTN000654706;orthologs	LIM HOMEOBOX TRANSCRIPTION FACTOR 1-BETA (PTHR24208:SF96)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=94903|UniProtKB=Q64205	DLX3	Homeobox protein DLX-3;Dlx3;PTN000675757;orthologs	HOMEOBOX PROTEIN DLX-3 (PTHR24327:SF28)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=94901|UniProtKB=Q64317	DLX1	Homeobox protein DLX-1;Dlx1;PTN000675860;orthologs	HOMEOBOX PROTEIN DLX-1 (PTHR24327:SF33)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1913993|UniProtKB=Q6PDX6	RNF220	E3 ubiquitin-protein ligase Rnf220;Rnf220;PTN000335929;orthologs	E3 UBIQUITIN-PROTEIN LIGASE RNF220 (PTHR13459:SF3)		Mus musculus
+MOUSE|MGI=MGI=95842|UniProtKB=P31315	GSX1	GS homeobox 1;Gsx1;PTN000674445;orthologs	GS HOMEOBOX 1 (PTHR24339:SF29)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=3586824|UniProtKB=Q8BYG9	EPHA10	Ephrin type-A receptor 10;Epha10;PTN000700223;orthologs	EPHRIN TYPE-A RECEPTOR 10 (PTHR46877:SF16)	transmembrane signal receptor(PC00197)	Mus musculus

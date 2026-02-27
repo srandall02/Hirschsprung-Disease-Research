@@ -1,0 +1,10 @@
+
+MOUSE|MGI=MGI=1097716|UniProtKB=O35085	ARX	Homeobox protein ARX;Arx;PTN000677415;orthologs	HOMEOBOX PROTEIN ARX (PTHR24329:SF572)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1891408|UniProtKB=Q6XBJ3	ONECUT2	One cut domain family member 2;Onecut2;PTN000362240;orthologs	ONE CUT DOMAIN FAMILY MEMBER 2 (PTHR14057:SF10)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=892014|UniProtKB=Q8C4U3	SFRP1	Secreted frizzled-related protein 1;Sfrp1;PTN000139818;orthologs	SECRETED FRIZZLED-RELATED PROTEIN 1 (PTHR11309:SF87)	transmembrane signal receptor(PC00197)	Mus musculus
+MOUSE|MGI=MGI=97347|UniProtKB=P42586	NKX2-2	Homeobox protein Nkx-2.2;Nkx2-2;PTN000678557;orthologs	HOMEOBOX PROTEIN NKX-2.2 (PTHR24340:SF24)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=1859823|UniProtKB=Q9ESP5	FEZF2	Fez family zinc finger protein 2;Fezf2;PTN000577936;orthologs	FEZ FAMILY ZINC FINGER PROTEIN 2 (PTHR24388:SF97)	C2H2 zinc finger transcription factor(PC00248)	Mus musculus
+MOUSE|MGI=MGI=102673|UniProtKB=P50481	LHX3	LIM_homeobox protein Lhx3;Lhx3;PTN000717561;orthologs	LIM_HOMEOBOX PROTEIN LHX3 (PTHR24208:SF91)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=96192|UniProtKB=P31257	HOXC10	Homeobox protein Hox-C10;Hoxc10;PTN000675154;orthologs	HOMEOBOX PROTEIN HOX-C10 (PTHR45874:SF2)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=94901|UniProtKB=Q64317	DLX1	Homeobox protein DLX-1;Dlx1;PTN000675860;orthologs	HOMEOBOX PROTEIN DLX-1 (PTHR24327:SF33)	homeodomain transcription factor(PC00119)	Mus musculus
+MOUSE|MGI=MGI=95842|UniProtKB=P31315	GSX1	GS homeobox 1;Gsx1;PTN000674445;orthologs	GS HOMEOBOX 1 (PTHR24339:SF29)	homeodomain transcription factor(PC00119)	Mus musculus
